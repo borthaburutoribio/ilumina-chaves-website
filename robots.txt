@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://borthaburutoribio.github.io/ilumina-chaves-website/sitemap.xml
